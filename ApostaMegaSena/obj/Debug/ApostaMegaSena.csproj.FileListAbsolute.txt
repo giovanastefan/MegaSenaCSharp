@@ -1,0 +1,11 @@
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\bin\Debug\ApostaMegaSena.exe.config
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\bin\Debug\ApostaMegaSena.exe
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\bin\Debug\ApostaMegaSena.pdb
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\obj\Debug\ApostaMegaSena.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\obj\Debug\ApostaMegaSena.csproj.SuggestedBindingRedirects.cache
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\obj\Debug\ApostaMegaSena.Form1.resources
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\obj\Debug\ApostaMegaSena.Properties.Resources.resources
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\obj\Debug\ApostaMegaSena.csproj.GenerateResource.cache
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\obj\Debug\ApostaMegaSena.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\obj\Debug\ApostaMegaSena.exe
+C:\Users\giova\source\repos\ApostaMegaSena\ApostaMegaSena\obj\Debug\ApostaMegaSena.pdb

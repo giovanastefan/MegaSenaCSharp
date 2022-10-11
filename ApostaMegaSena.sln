@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApostaMegaSena", "ApostaMegaSena\ApostaMegaSena.csproj", "{D345877C-6FA6-48CD-93A3-99F740996786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D345877C-6FA6-48CD-93A3-99F740996786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D345877C-6FA6-48CD-93A3-99F740996786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D345877C-6FA6-48CD-93A3-99F740996786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D345877C-6FA6-48CD-93A3-99F740996786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86333D7D-A5BD-46CE-81BC-55373BD55278}
+	EndGlobalSection
+EndGlobal
